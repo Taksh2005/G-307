@@ -40,7 +40,7 @@ void main(){
 			printf("X");
 			n=n-10;
 		}
-		else if(n>=9){
+		if(n>=9){
 			printf("IX");
 			n=n-9;
 		}
