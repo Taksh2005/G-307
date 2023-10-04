@@ -20,7 +20,7 @@ void main(){
 			printf("CD");
 			n=n-400;
 		}
-	    if(n>=100){
+	        if(n>=100){
 			printf("C");
 			n=n-100;
 		}
