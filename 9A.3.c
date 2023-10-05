@@ -8,5 +8,5 @@ void main(){
 		x=x*v;
 		i++;
 	}
-	printf("%d",x);
+	printf("%d ^ %d: %d",v,y,x);
 }
